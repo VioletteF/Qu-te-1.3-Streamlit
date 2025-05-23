@@ -1,0 +1,3 @@
+name,password,email,failed_login_attemps,logged_in,role
+Violette,123,violette@wcs.fr,?,?,admin
+Guillaume,456,guillaume@wcs.fr,?,?,admin
