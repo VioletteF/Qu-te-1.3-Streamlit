@@ -45,8 +45,8 @@ setuptools==78.1.1
 six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
 smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
 streamlit @ file:///C:/b/abs_d0_ep2cci6/croot/streamlit-split_1747131702190/work/streamlit
-streamlit-authenticator==0.4.2
-streamlit-option-menu==0.4.0
+streamlit-authenticator
+streamlit-option-menu=
 tenacity @ file:///C:/b/abs_1749lsqys6/croot/tenacity_1730304400080/work
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tornado @ file:///C:/b/abs_ddw30llnu3/croot/tornado_1747918075359/work
