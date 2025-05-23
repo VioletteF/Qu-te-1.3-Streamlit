@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from streamlit_option_menu import option_menu
 from streamlit_authenticator import Authenticate
-csv=pd.read_csv(r"C:\Users\viole\Documents\Exercices\S11\Quête 1.3 Streamlit\identification.csv")
+csv=pd.read_csv(r"identification.csv")
 
 utilisateurs = {"usernames": {}}
 
