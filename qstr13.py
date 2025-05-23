@@ -61,16 +61,16 @@ elif selection == "Photos 📷":
 # Contenu de la première colonne : 
     with col1:
         st.header("Je vous présente Loukoum!")
-        st.image(r"C:\Users\viole\Downloads\IMG-20231128-WA0016.jpg")
+        st.image(r"IMG-20231128-WA0016.jpg")
 #Contenu de la deuxième colonne :
     with col2:
         st.header("Encore Loukoum")
-        st.image(r"C:\Users\viole\Downloads\20231204_113414.jpg")
+        st.image(r"20231204_113414.jpg")
         st.write(" C'est un basset artésien normand. Elle est très gentille, un peu bête (chut! faut pas lui dire!), et très têtue")
 
 # Contenu de la troisième colonne : 
     with col3:
         st.header("Et voilà Vasco!")
-        st.image(r"C:\Users\viole\Downloads\20240823_205643.jpg")
+        st.image(r"20240823_205643.jpg")
         st.write(" Il vient d'avoir 1 an!C'est un basset fauve de Bretagne. C'est pas un grand chien mais il est super vif. Il veut tout le temps jouer. Il est beaucoup plus fût-fût que sa soeur")
 # ... et ainsi de suite pour les autres pages
